@@ -1,0 +1,4 @@
+scenario,probability,demand_multiplier,disrupted_center
+Normal,0.7,1.0,none
+Center_B_disruption,0.2,1.0,B
+High_demand,0.1,1.25,none
